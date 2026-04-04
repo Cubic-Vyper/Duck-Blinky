@@ -8,6 +8,7 @@ This is a duck shaped led chaser, I chose to make it shaped as a duck because I 
 | PCB | This will connect everything | 5 | 4.00 | [Link to Listing](http://jlcpcb.com/) | JLCPCB |
 
 The edge of the pcb is a exposed soldering pad because it looks cool.
+To power the pcb conect 5v power and ground to the 2-pin connector, rotate the screw to adjust the speed of the lights.
 PCB:
 
 <img width="782" height="652" alt="image" src="https://github.com/user-attachments/assets/e2c611fb-7671-4059-98a8-f00ea031509c" />

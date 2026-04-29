@@ -1,6 +1,8 @@
 # Duck-Blinky
 This is a duck shaped led chaser, I chose to make it shaped as a duck because I love ducks.
 
+Stasis Page PDF (cuz you would need an account to view the page): https://github.com/Cubic-Vyper/Duck-Blinky/blob/fc39c694c192e888ad827d875bb895b51e32edd1/Stasis_ProjectPage-DUCK%20BLINKY.pdf
+
 # Bill Of Materials
 
 | Name | Purpose | Quantity | Total Cost (USD) | Link to Listing | Distributor |
